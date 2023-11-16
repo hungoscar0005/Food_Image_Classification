@@ -1,4 +1,4 @@
-# Image_Classification
+# Food_Image_Classification
 ## Description
 Do image classification with convolutional neural networks(CNN).  
 Data source: Food-11 Dataset
